@@ -12,7 +12,7 @@ header {
     font-size: 16px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
     opacity: 60%;
-    padding: 20px;
+    padding: 10px;
     display: grid;
     grid-template-columns: auto auto;
     text-align: center;
@@ -60,7 +60,7 @@ section img {
 
 /* SILLY ABOUT SETTINGS */
 
-h1 {
+h2 {
     font-size: 50px;
     opacity: 70%;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, .9);
