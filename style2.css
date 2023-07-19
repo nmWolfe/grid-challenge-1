@@ -82,7 +82,6 @@ p img {
 /* FOR THE TABLETOS */
 
     .burger-menu {
-        transition: width 4s;
         display: none;
     }
 
